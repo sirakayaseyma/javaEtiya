@@ -20,6 +20,7 @@ public class StudentMain {
             System.out.println("Kayit olan ögrencinin Adi ve Soyadi: " +  student2.getFirstName() + " " + student2.getLastName());
             System.out.println("Email bilgisi: " + student2.getEmail());
             System.out.println("Hakkinda: " + student2.getAbout());
+            System.out.println("Sisteme kayit tarihi: " + student2.getCreatedDate());
         }
     }
     
