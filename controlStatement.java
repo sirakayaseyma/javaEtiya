@@ -32,12 +32,12 @@ public class controlStatement {
             System.out.println("Not ortalamanız : FF");
         }
 
-        Scanner scanner = new Scanner(System.in);
+        Scanner scanner1 = new Scanner(System.in);
         System.out.print("Hesap bakiyenizi giriniz:");
-        double accountBalance = scanner.nextDouble();
+        double accountBalance = scanner1.nextDouble();
 
         System.out.print("Çekmek istediğiniz miktarı giriniz:");
-        double amount = scanner.nextDouble();
+        double amount = scanner1.nextDouble();
 
         if (amount <= accountBalance) {
             accountBalance -= amount ;
