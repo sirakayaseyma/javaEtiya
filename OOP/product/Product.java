@@ -1,4 +1,4 @@
-package OOP;
+package OOP.product;
 
 public class Product {
     //Alan tanımlarken camelCase yazıyoruz.

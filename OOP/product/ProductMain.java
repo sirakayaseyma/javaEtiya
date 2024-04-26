@@ -1,4 +1,4 @@
-package OOP;
+package OOP.product;
 
 import java.util.List;
 
