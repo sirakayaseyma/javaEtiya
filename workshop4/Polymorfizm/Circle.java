@@ -1,6 +1,6 @@
-package Polymorfizm;
+package workshop4.Polymorfizm;
 
-public class Circle extends Polymorfizm.Figure {
+public class Circle extends Figure {
     @Override
     void ciz() {
         System.out.println("Daire çiziliyor...");

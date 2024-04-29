@@ -1,4 +1,4 @@
-package Polymorfizm;
+package workshop4.Polymorfizm;
 
 public class Figure {
 
